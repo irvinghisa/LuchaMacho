@@ -1,0 +1,21 @@
+﻿<xapCache source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\bin\WindowsPhone\x86\Debug\EmptyProject_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="18/09/2013 10:51:48 a. m.">
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\obj\x86\Debug\LuchaMacho.dll" archivePath="LuchaMacho.dll" lastWriteTime="18/09/2013 10:51:47 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\Content\fonts\MarkerFelt-22.xnb" archivePath="Content\fonts\MarkerFelt-22.xnb" lastWriteTime="18/09/2013 10:35:52 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="18/09/2013 10:35:52 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="18/09/2013 10:35:52 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="18/09/2013 10:35:52 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="18/09/2013 10:35:52 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="18/09/2013 10:35:52 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\bin\WindowsPhone\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="18/09/2013 10:38:12 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="18/09/2013 10:35:52 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="18/09/2013 10:35:52 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\packages\Cocos2D-XNA.WindowsPhone8.0.9.0.0\lib\WindowsPhone8\x86\box2d.dll" archivePath="box2d.dll" lastWriteTime="18/09/2013 10:35:56 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\packages\Cocos2D-XNA.WindowsPhone8.0.9.0.0\lib\WindowsPhone8\x86\cocos2d-xna.dll" archivePath="cocos2d-xna.dll" lastWriteTime="18/09/2013 10:35:56 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\packages\Cocos2D-XNA.WindowsPhone8.0.9.0.0\lib\WindowsPhone8\x86\ICSharpCode.SharpZipLib.dll" archivePath="ICSharpCode.SharpZipLib.dll" lastWriteTime="18/09/2013 10:35:56 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\packages\Cocos2D-XNA.WindowsPhone8.0.9.0.0\lib\WindowsPhone8\x86\MonoGame.Framework.dll" archivePath="MonoGame.Framework.dll" lastWriteTime="18/09/2013 10:35:56 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\packages\Cocos2D-XNA.WindowsPhone8.0.9.0.0\lib\WindowsPhone8\x86\SharpDX.dll" archivePath="SharpDX.dll" lastWriteTime="18/09/2013 10:35:56 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\packages\Cocos2D-XNA.WindowsPhone8.0.9.0.0\lib\WindowsPhone8\x86\SharpDX.Direct3D11.dll" archivePath="SharpDX.Direct3D11.dll" lastWriteTime="18/09/2013 10:35:56 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\packages\Cocos2D-XNA.WindowsPhone8.0.9.0.0\lib\WindowsPhone8\x86\SharpDX.XAudio2.dll" archivePath="SharpDX.XAudio2.dll" lastWriteTime="18/09/2013 10:35:56 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\packages\Cocos2D-XNA.WindowsPhone8.0.9.0.0\lib\WindowsPhone8\x86\SharpDX.DXGI.dll" archivePath="SharpDX.DXGI.dll" lastWriteTime="18/09/2013 10:35:56 a. m." />
+  <file source="C:\Users\inode\Documents\GitHub\LuchaMacho\LuchaMacho\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="18/09/2013 10:38:12 a. m." />
+</xapCache>
